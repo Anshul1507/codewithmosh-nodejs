@@ -1,0 +1,24 @@
+{
+  "name": "codewithmosh-nodejs",
+  "version": "1.0.0",
+  "description": "Tasks under codewithmosh-nodeJS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshul1507/codewithmosh-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshul1507/codewithmosh-nodejs/issues"
+  },
+  "homepage": "https://github.com/Anshul1507/codewithmosh-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
